@@ -5,11 +5,11 @@
 <!-- <img src="https://github.com/shushilgautam/shushilgautam/assets/140318801/13f74b85-f7b9-4790-a489-5ed0000fbacb" align="right" height=400px width=400px margin-left=30px/> -->
 - 🌱 I’m currently learning **Android Development form Java**
 
-- 📝 I regularly write articles on [https://codekaizer.blogspot.com/](https://codekaizer.blogspot.com/)
+- 📝 I  write articles on [https://codekaizer.blogspot.com/](https://codekaizer.blogspot.com/)
 
 - 📫 How to reach me **shushilgautam@programmer.net**
 
-- ⚡ Fun fact **“Programmer: A machine that turns coffee into code.”**
+- ⚡ Fun fact **I can spend hours watching anime.”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

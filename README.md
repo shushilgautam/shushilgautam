@@ -43,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shushilgautam&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=shushilgautam&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="shushilgautam" /></p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shushilgautam&show_icons=true&locale=en&layout=compact&theme=onedark" alt="shushilgautam" /></p>
 

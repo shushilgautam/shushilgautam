@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/shushilgautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shushilgautam" height="30" width="40" /></a>
 <a href="https://fb.com/shushilgautam2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shushilgautam2003" height="30" width="40" /></a>
 </p>
-
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
@@ -51,7 +51,6 @@
 <hr>
 
 <h3><br>📊 GitHub Stats</h3>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shushilgautam&show_icons=true&locale=en&layout=compact&theme=onedark" alt="shushilgautam" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shushilgautam&show_icons=true&locale=en&theme=onedark" alt="shushilgautam" /></p>
 <hr>

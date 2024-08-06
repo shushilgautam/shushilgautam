@@ -46,7 +46,7 @@
 <hr>
 <h3>🏆 GitHub Trophies</h3> 
 <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=shushilgautam&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="shushilgautam" /></p>
-<br><br><br>
+<br><br><br><br><br>
 
 <hr>
 

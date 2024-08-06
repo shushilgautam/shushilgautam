@@ -42,10 +42,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
+
 <hr>
 <h3>🏆 GitHub Trophies</h3> 
-<br>
-<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=shushilgautam&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="shushilgautam" /><br></p>
+<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=shushilgautam&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="shushilgautam" /></p>
+<br><br><br>
 <hr>
 
 <h3><br>📊 GitHub Stats</h3>

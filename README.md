@@ -44,8 +44,7 @@
 </div>
 <h3>GitHub Trophies</h3> 
 <br>
-<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=shushilgautam&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="shushilgautam" /></p>
-<br>
+<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=shushilgautam&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="shushilgautam" /><br><br></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shushilgautam&show_icons=true&locale=en&layout=compact&theme=onedark" alt="shushilgautam" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shushilgautam&show_icons=true&locale=en&theme=onedark" alt="shushilgautam" /></p>
 

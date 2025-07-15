@@ -1,61 +1,102 @@
-<h1 align="center">Hi 👋, I'm Shushil Gautam</h1>
-<h3 align="center">CSIT Student | Learning Mobile App Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shushilgautam&label=Profile%20views&color=0e75b6&style=flat" alt="shushilgautam"  /> </p>
-<img align="right" alt="Coding" width="500" height = "400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-<!-- <img src="https://github.com/shushilgautam/shushilgautam/assets/140318801/13f74b85-f7b9-4790-a489-5ed0000fbacb" align="right" height=400px width=400px margin-left=30px/> -->
-- 🌱 I’m currently learning **Android Development form Java**
+<h1 align="center">👋 Hello World! I'm Shushil Gautam</h1>
+<h3 align="center">Flutter Expert | .NET Learner | Full-Stack Aspirant</h3>
 
-- 📝 I  write articles on [https://codekaizer.blogspot.com/](https://codekaizer.blogspot.com/)
-
-- 📫 How to reach me **shushilgautam@proton.me**
-
-- ⚡ Fun fact **I can spend hours watching anime.”**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shushilgautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shushilgautam" height="30" width="40" /></a>
-<a href="https://fb.com/shushilgautam2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shushilgautam2003" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/shushilgautam?tab=repositories">
+    <img src="https://komarev.com/ghpvc/?username=shushilgautam&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/shushilgautam?tab=followers">
+    <img src="https://img.shields.io/github/followers/shushilgautam?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://codekaizer.blogspot.com/">
+    <img src="https://img.shields.io/badge/Tech%20Blog-Active-success" alt="Blog Status" />
+  </a>
 </p>
-<hr>
-<h3 align="left">Languages and Tools:</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
-
-<hr>
-<h3>🏆 GitHub Trophies</h3> 
-<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=shushilgautam&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="shushilgautam" /></p>
-<br><br><br><br><br>
-
-<hr>
-
-<h3><br>📊 GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shushilgautam&show_icons=true&locale=en&layout=compact&theme=onedark" alt="shushilgautam" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shushilgautam&show_icons=true&locale=en&theme=onedark" alt="shushilgautam" /></p>
-<hr>
-<h3 align="left">🔥   My Stats :</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shushilgautam&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="400" alt="Coding Animation" />
 </div>
+
+---
+
+## 🚀 About Me
+
+I'm a **Computer Science student** passionate about crafting seamless **mobile & web experiences**.
+
+- 🔭 **Currently Building**: Enterprise apps with **Flutter** frontend & **.NET** backend  
+- 🌱 **Learning**: .NET Core, ASP.NET MVC, Bootstrap 5, and Entity Framework  
+- 🛠️ **Expertise**: Flutter (Dart), Android (Java/Kotlin), UI/UX Design  
+- ✍️ Tech writer at [CodeKaizer Blog](https://codekaizer.blogspot.com/)  
+- 💡 Focused on **clean architecture & performance optimization**  
+- ⚡ **Fun Fact:** I can recognize anime from a single screenshot frame!
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Full-Stack Development
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+### 📱 Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 🧰 Tools & Platforms
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shushilgautam&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shushilgautam&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=shushilgautam&theme=dark&hide_border=true&border_radius=5&mode=weekly" alt="GitHub Streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=shushilgautam&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🚧 Current Learning Path
+
+```mermaid
+graph LR
+    A[Flutter Expertise] --> B[.NET Fundamentals]
+    A --> C[C# Language]
+    
+    B --> D[ASP.NET Core]
+    C --> D
+    
+    D --> E[Entity Framework]
+    E --> F[API Development]
+    
+    F --> G[Flutter + .NET Integration]
+    G --> H[Full-Stack Applications]
+    H --> I[Cloud Deployment]
+    I --> J[Professional Full-Stack Mastery]
+```
+## 🤝 Connect With Me
+
+<p align="center"> <a href="https://linkedin.com/in/shushilgautam"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://fb.com/shushilgautam2003"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> <a href="mailto:shushilgautam@proton.me"> <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/> </a> <a href="https://codekaizer.blogspot.com/"> <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/> </a> </p>
+
+----------
+
+<p align="center"> <i>"Building bridges between ideas and implementation, one commit at a time."</i> 🌉💻 </p> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=1&section=footer&animation=fadeIn" /> </div> 

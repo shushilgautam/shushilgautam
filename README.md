@@ -15,11 +15,11 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="200" alt=".NET Logo" style="vertical-align: middle; margin-bottom: 0;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" width="200" alt=".NET Logo" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="Modern Coding Animation" style="vertical-align: middle; margin-bottom: 0;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Modern Coding Animation" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="190" alt="Flutter Logo" style="vertical-align: middle; margin-bottom: 0;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="190" alt="Flutter Logo" />
 </div>
 
 ---
